@@ -18,7 +18,7 @@ I write the lighting, shadows and tools that make real-time games and simulation
 #### Tools I use
 C, C++, OpenGL, GLFW, Dear ImGui, CMake, TypeScript, React, Three.js, PostgreSQL, Python, Git, Linux
 
-School project code is private, so I'm happy to walk through it on a call.
+School project code is private, but I'm happy to share more about how I built it.
 
 #### Looking for
 An internship in game programming, graphics, simulation or C++ software engineering, from May 2027 to April 2028.
