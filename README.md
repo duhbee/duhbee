@@ -7,7 +7,7 @@ I write the lighting, shadows and tools that make real-time games and simulation
 #### Selected projects
 - **The Last Act**: technical lead and graphics on an 8-person 2D puzzle-platformer in our own C++ and OpenGL engine. I built the spotlight and shadow system and the editor's lighting and animation tools. [Gameplay video](https://www.youtube.com/watch?v=wYaBSyx7Sx4)
 - **DDS Light Cycles**: real-time multiplayer game in C, with networking over Cyclone DDS (Data Distribution Service). I built the OpenGL client and redesigned the arena in 3D.
-- **VArchive**: web platform for 3D cultural heritage records, built with React, TypeScript and Three.js by a 12-person team. I built side-by-side 3D comparison, condition assessments and resumable uploads.
+- **VArchive**: web platform for 3D cultural heritage records, built with React, TypeScript and Three.js by a 8-person team. I built side-by-side 3D comparison, condition assessments and resumable uploads.
 
 #### Also built
 - **Thalassa**: underwater game in C++ (burrowing enemy and menus)
